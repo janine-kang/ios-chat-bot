@@ -166,6 +166,10 @@ ChatBot
 
 ## 3️⃣ 습득 지식
 
+### Trouble Shooting
+- 초기에 VM: V의 관계를 1:1의 관계로 정의하고 데이터 바인딩을 Multi Event trigger-UI Rendering Timing 중심으로 설정
+- 이후 1:N의 가능성을 확인하고 단일 Event trigger-UI Rendering Timing으로 설정 변경
+
 <table>
 <tr>
 <th>🥭 Mango</th>
